@@ -1,7 +1,7 @@
 ## Hello World, I'm Esat 👋
 
 ### I'm a self-taught coder. 👽
-- 🔎 &nbsp; I’m currently learning JavaScript 
+- 🔎 &nbsp; I’m currently learning Vue.js 
 - 🎓 &nbsp; Studying Computer Science in Turkey.
 - 🌱 &nbsp; Learning more about web technologies.
 - 📫 &nbsp; How to reach me: [Instagram](https://www.instagram.com/esatakpunar/)
